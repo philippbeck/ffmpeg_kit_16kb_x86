@@ -69,5 +69,5 @@ dependencies {
     implementation("com.arthenica:smart-exception-java9:0.2.1")
     implementation("com.arthenica:smart-exception-common:0.2.1")
     // Use Maven artifact with 16KB page size support and all architectures
-    implementation("com.moizhassan.ffmpeg:ffmpeg-kit-16kb:6.0.0")
+    api("com.moizhassan.ffmpeg:ffmpeg-kit-16kb:6.0.0")
 }
