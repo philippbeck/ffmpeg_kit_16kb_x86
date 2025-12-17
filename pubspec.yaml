@@ -1,4 +1,4 @@
-name: ffmpeg_kit_16kb_x86
+name: ffmpeg_kit_16kb
 description: FFmpeg Kit for Flutter with Full GPL, 16KB page size support, and x86_64 emulator support. Fork of ffmpeg_kit_16kb.
 repository: https://github.com/philippbeck/ffmpeg_kit_16kb_x86
 homepage: https://github.com/philippbeck/ffmpeg_kit_16kb_x86
